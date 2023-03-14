@@ -1,0 +1,189 @@
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+h1 {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+  
+}
+
+body {
+  font-family: "Montserrat";
+}
+
+.navbar {
+  padding: 0 0 4.5rem 0  ;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: bold;
+  
+}
+
+.down-but {
+  margin: 5% 3% 5% 0%;
+}
+
+.tittle-img {
+  width: 20%;
+  transform: rotate(25deg);
+  position: relative;
+  left: 20%;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+}
+
+.Feat-h3 {
+  
+  font-size: 1.5rem;
+  padding-top: 1rem;
+}
+
+h3 {
+  font-family: "Montserrat-bold";
+}
+
+h2 {
+  font-family: "Montserrat-Bold";
+  font-size: 2.5rem;
+}
+
+p {
+  font-family: #8f8f8f;
+  font-weight: bold;
+}
+
+.Feat-icon {
+  color: #ef8172;
+}
+
+
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.Feat-icon:hover {
+  color: #ff4c68;
+}
+
+.test-h2 {
+   font-family: "Montserrat-Bold";
+  font-size: 2.5rem;
+  line-height: 1.5;
+  color: #fff;
+}
+
+.test-img {
+  border-radius: 100%;
+  width: 10%;
+  margin: 15px;
+}
+#testimonials {
+
+  text-align: center;
+  background-color: #ff4c68;
+}
+#press {
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-img {
+  width: 13%;
+  margin: 2%;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#pricing {
+  padding: 6%;
+  text-align: center;
+}
+
+.pricing-colu{
+  padding: 3% 2%;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.cta-h3 {
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1;
+}
+
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.foot-img {
+  margin: 20px 10px 20px 10px;
+  padding-bottom: 2%;
+}
+@media (max-width: 990px) {
+  .tittle-img {
+    position: relative;
+    transform: rotate(0);
+    width: 56%;
+  }
+
+ #title {
+    text-align: center;
+  }
+}
+
+.andriod {
+  text-decoration: none;
+  color: #fff;
+}
+
+.iphone {
+  text-decoration: none;
+  color: #fff;
+}
+
+.andriod:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.iphone:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.card-p {
+  padding-bottom: 41px;
+}
